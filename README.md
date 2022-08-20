@@ -5,8 +5,8 @@ O aplicativo tem como função o gerenciamento de vendedores e seus respectivos 
 
 Foram implementadas as seguintes principais funções:
 
-Tela de CRUD para Seller;
-Tela de CRUD para departamento.
+* Tela de CRUD para Seller;
+* Tela de CRUD para departamento.
 
 Através destas inclusões, foi possível ver na prática o processo de estruturação de projeto com padrão MVC, criação de telas no Java, criação de conexão com o banco e manipulação de dados e etc.
 
